@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pabasara0000&label=Profile%20views&color=0e75b6&style=flat" alt="pabasara0000" /> </p>
 
-- 🌱 I’m currently learning **Bachelor of Information Communication Technology Hons.**
+- 🌱 I’m currently learning **Bachelor of Information and Communication Technology Hons.**
 
 - 📝 I regularly write articles on [https://medium.com/@pabasarapiyumali123](https://medium.com/@pabasarapiyumali123)
 
